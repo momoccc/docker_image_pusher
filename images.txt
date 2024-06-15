@@ -11,3 +11,4 @@ postgres:15.4
 dhuar/grafana:latest
 eclipse-mosquitto:2
 nginx:1.25.2
+synctvorg/synctv
