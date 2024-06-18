@@ -12,7 +12,7 @@ dhuar/grafana:latest
 eclipse-mosquitto:2
 nginx:1.25.2
 synctvorg/synctv
-jitsi/web
-jitsi/prosody
-jitsi/jicofo
-jitsi/jvb
+jitsi/web:unstable
+jitsi/prosody:unstable
+jitsi/jicofo:unstable
+jitsi/jvb:unstable
