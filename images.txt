@@ -12,3 +12,7 @@ dhuar/grafana:latest
 eclipse-mosquitto:2
 nginx:1.25.2
 synctvorg/synctv
+jitsi/web:${JITSI_IMAGE_VERSION:-unstable}
+jitsi/prosody:${JITSI_IMAGE_VERSION:-unstable}
+jitsi/jicofo:${JITSI_IMAGE_VERSION:-unstable}
+jitsi/jvb:${JITSI_IMAGE_VERSION:-unstable}
