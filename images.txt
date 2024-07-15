@@ -16,3 +16,4 @@ jitsi/web:unstable
 jitsi/prosody:unstable
 jitsi/jicofo:unstable
 jitsi/jvb:unstable
+xiaoya
